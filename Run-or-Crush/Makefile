@@ -1,0 +1,2 @@
+all:
+	g++ -I include -L lib -o bin/main src/main.cpp src/renderwindow.cpp src/entity.cpp src/handler.cpp src/player.cpp src/fireball.cpp src/block.cpp -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf 
