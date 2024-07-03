@@ -290,8 +290,8 @@ void addHUD()
         SDL_SetRenderDrawColor(window->getRenderer(), 173, 216, 230, 255);
     }
 
-    void Timer(int* frameCounter)
-    {
+void Timer(int* frameCounter)
+{
         *frameCounter = *frameCounter + 1;
 
         if(*frameCounter % 60 == 0) seconds -= 1; 
