@@ -13,7 +13,7 @@ while the goal of the crusher is to crush the runner with their blocks.
 # Compiling
 To compile on windows, install Mingw64, SDL2, SDL2_Image and SDL2_TTF. Place all the C header files from SDL2, SDL2_Image and SDL2_TTF into the include folder, 
 and create a new folder called lib and place all the library files, cmake files and pkgconfig files there. Finally create a bin folder and place the dll files
-there, thats also where the .exe file will be created there. Run the line in the Makefile in the root directory to compile, then run the .exe file.
+there, thats also where the .exe file will be created. Run the line in the Makefile in the root directory to compile, then run the .exe file.
 
 
 
