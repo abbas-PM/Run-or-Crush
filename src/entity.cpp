@@ -50,7 +50,7 @@ int Entity::getType()
 
 SDL_Texture* Entity::getTex()
 {
-	    return tex;
+	return tex;
 }
 
 void Entity::setX(float px)
@@ -75,12 +75,12 @@ void Entity::setVelY(float py)
 
 void Entity::setJumping(bool pJumping)
 {
-	    jumping = pJumping;
+	jumping = pJumping;
 }
 
 void Entity::setFalling(bool pFalling)
 {
-	    falling = pFalling;
+	falling = pFalling;
 }
 
 void Entity::setDeleted(bool del)
@@ -110,5 +110,5 @@ float Entity::clamp(float value, float min, float max)
 
 bool Entity::intersect(SDL_Rect a, SDL_Rect b)
 {
-	    return !(b.x > (a.x + a.w) || (b.x + b.w) < a.x || b.y > (a.y + a.h) || (b.y + b.h) < a.y);
+	return !(b.x > (a.x + a.w) || (b.x + b.w) < a.x || b.y > (a.y + a.h) || (b.y + b.h) < a.y);
 }
