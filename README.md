@@ -2,7 +2,7 @@
 Run or Crush is a 2 player game created in C++ and SDL2. 
 
 # Screenshots
-![image](https://github.com/abbas-PM/Run-or-Crush/assets/116516812/10543357-6e68-4a09-b8a5-91248d3db85c) ![image](https://github.com/abbas-PM/Run-or-Crush/assets/116516812/e5733c92-9e8b-4d13-8771-0341c7b1adbb)
+![image](https://github.com/abbas-PM/Run-or-Crush/assets/116516812/9ef93085-a4fc-47c8-ac50-36a377923c0b) ![image](https://github.com/abbas-PM/Run-or-Crush/assets/116516812/e5733c92-9e8b-4d13-8771-0341c7b1adbb)
 
 
 
