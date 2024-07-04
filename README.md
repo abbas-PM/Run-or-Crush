@@ -4,20 +4,6 @@ Run or Crush is a 2 player game created in C++ and SDL2.
 # Screenshots
 ![image](https://github.com/abbas-PM/Run-or-Crush/assets/116516812/95d57739-a05d-42b6-aa70-068369be9313) ![image](https://github.com/abbas-PM/Run-or-Crush/assets/116516812/3017a3b7-03cd-413f-9bde-1f33e13140da) ![image](https://github.com/abbas-PM/Run-or-Crush/assets/116516812/b6b90375-8e80-42dc-932a-2a5e3adec727) ![image](https://github.com/abbas-PM/Run-or-Crush/assets/116516812/74167b52-af8f-4369-af89-ef14269306e3)
 
-
-
-
-
-
-
-
-
-
-
-
-
-![image](https://github.com/abbas-PM/Run-or-Crush/assets/116516812/38411f3e-c3b7-43e1-8903-5aacd12470df)
-
 # Background
 Run or Crush is a 2 player game where one player acts as the runner and the other acts as the crusher. The runner controls their
 character with the keyboard, while the crusher places blocks with the mouse. The goal for the runner is to survive for the full game, 
